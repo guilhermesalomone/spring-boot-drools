@@ -14,8 +14,6 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 
 Agora que terminamos a configuração, vamos dar uma olhada em algumas opções para criar regras.
 
-Exploraremos a implementação da regra com um exemplo de categorização de um candidato para uma função específica, com base em seu salário atual e no número de anos de experiência que ele possui.
-
 
 ### Arquivo de regra de baba ( .drl )
 
