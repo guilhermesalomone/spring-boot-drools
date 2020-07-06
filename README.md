@@ -64,7 +64,8 @@ For further reference, please consider the following sections:
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/maven-plugin/reference/html/#build-image)
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/htmlsingle/#using-boot-devtools)
 * [Introdução ao Drools](https://www.baeldung.com/drools)
-
+* [Site drools](https://www.drools.org/)
+* [Drools Documentation](https://docs.jboss.org/drools/release/7.39.0.Final/drools-docs/html_single/index.html)
 
 
 
