@@ -15,7 +15,7 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 Agora que terminamos a configuração, vamos dar uma olhada em algumas opções para criar regras.
 
 
-### Arquivo de regra de baba ( .drl )
+### Drools Rule File( .drl )
 
 Simplificando, o arquivo de regras Drools contém todas as regras de negócios.
 
